@@ -195,11 +195,3 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 - [Flask Documentation](https://flask.palletsprojects.com/)
 
 ---
-
-<div align="center">
-
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
-
-⭐ Star the main repo if this helped you!
-
-</div>
